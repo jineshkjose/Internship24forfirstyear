@@ -2,7 +2,9 @@
 
 hjhjhjhjhjghjhjhjh  
 
-## About me
+## About IIIC
+
+![IIIC Logo](https://github.com/jineshkjose/Internship24forfirstyear/blob/main/iiiclogo.png)
 
 
 ## kjkjkjk
